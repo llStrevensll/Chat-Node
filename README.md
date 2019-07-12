@@ -1,6 +1,6 @@
 # Notas:
 
-Aplicación Chat basico - nodejs - sockets
+Aplicación Chat  - nodejs - sockets
 
 ```
 npm install
